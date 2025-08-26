@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 28px;
+}
+
+.title{
+    margin: 0 auto;
+    padding: 18px;
+}
+
+.recipe_card{
+    background-color: rgb(37, 149, 149);
+    padding: 16px;
+    margin: 0 auto;
+}
+
+img{
+    display: block;
+}
+
+.scrambled-eggs{
+    display: inline-block;
+
+}
